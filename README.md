@@ -33,10 +33,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## License 
+## 🛡️ License 
 
 This project is licensed under the [MIT_License](License). You are free to use, modify and share this project with proper attribution
 
-## About me 
+## 🔅 About me 
 
 Hi there! I am **Lateefat Akintunde**, you can also call me **ourlateefat-lab**. I am an upcoming Data Engineer
